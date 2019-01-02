@@ -1,2 +1,1 @@
-# ui-utilities
-Siri Shortcut Update Checker
+1
