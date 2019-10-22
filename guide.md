@@ -4,7 +4,12 @@
 Click on the text to be directed to the section.
 
 [Setup](https://paddy-1304.github.io/UI-Utilities/guide#setting-up-ui-utilities)
+
 [First Use](https://paddy-1304.github.io/UI-Utilities/guide#first-use)
+
+[Troubleshooting](https://paddy-1304.github.io/UI-Utilities/guide#troubleshooting)
+
+[Contact Me](https://paddy-1304.github.io/UI-Utilities/guide#contact-me)
 
 ****
 
