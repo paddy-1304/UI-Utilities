@@ -2,7 +2,10 @@
 
 ### Contents
 Click on the text to be directed to the section.
-[Setup](
+[Setup](https://paddy-1304.github.io/ui-utilities/guide#setting-up-ui-utilities)
+
+****
+
 ### Setting up UI Utilities
 
 Once you have found the UI Utilities section on **[RoutineHub](https://routinehub.co/shortcut/1421)** head to Settings>Shortcuts and ensure allow untrusted shortcuts is enabled. 
