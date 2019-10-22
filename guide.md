@@ -1,10 +1,10 @@
 ![ui](https://i.imgur.com/Mu6f6Pr.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Setting up UI Utilities
 
-### Markdown
+Once you have found the UI Utilities section on **[RoutineHub](https://routinehub.co/shortcut/1421)** head to Settings>Shortcuts and ensure allow untrusted shortcuts is enabled. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![un](https://i.imgur.com/YTgQomE.png)
 
 ```markdown
 Syntax highlighted code block
