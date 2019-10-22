@@ -1,5 +1,8 @@
 ![ui](https://i.imgur.com/Mu6f6Pr.png)
 
+### Contents
+Click on the text to be directed to the section.
+[Setup](
 ### Setting up UI Utilities
 
 Once you have found the UI Utilities section on **[RoutineHub](https://routinehub.co/shortcut/1421)** head to Settings>Shortcuts and ensure allow untrusted shortcuts is enabled. 
