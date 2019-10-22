@@ -6,6 +6,11 @@ Once you have found the UI Utilities section on **[RoutineHub](https://routinehu
 
 ![un](https://i.imgur.com/YTgQomE.png)
 
+Once you have done this, go back to RoutineHub and press 'Get Shortcut'. Once it has redirected you to the Shortcuts app and the UI Utilities Shortcut has appeared, scroll all the way down through the code and select **Add Untrusted Shortcut**. None of your data is stored and it is completely safe.
+
+****
+
+
 ```markdown
 Syntax highlighted code block
 
